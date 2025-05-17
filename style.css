@@ -1,0 +1,14 @@
+h1{
+    margin-bottom: 22px;
+    text-decoration: underline;
+   }
+   .section-1{
+    padding: 12px;
+    border: 1px solid black;
+   }
+   .read-more{
+    text-decoration: none;
+   }
+   .list-container{
+    padding:0px 18px;
+   }
