@@ -1,0 +1,28 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.p roboto-<uniquifier> {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+h1 {
+  margin-bottom: 22px;
+  text-decoration: underline;
+}
+
+.section_1 {
+  padding: 12px;
+  border: 1px solid black;
+}
+
+.list_container {
+  padding: 0px 18px;
+  justify-content: left;
+}
